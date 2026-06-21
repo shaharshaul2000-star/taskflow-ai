@@ -123,3 +123,9 @@ button {
   margin-top: 20px;
   color: #111827;
 }
+.footer {
+  text-align: center;
+  padding: 20px;
+  background: white;
+  color: #555;
+}
